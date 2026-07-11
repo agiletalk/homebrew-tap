@@ -1,6 +1,6 @@
 cask "vivarium" do
-  version "0.2.0"
-  sha256 "a465bff4b320e13ffea6a5ab65852195be9e8b9a84dee0b1b950051b7956be22"
+  version "0.3.0"
+  sha256 "c77cbcacb92f19b427106426cb3a3772a8392c716e33100dbed1af6e357ee429"
 
   url "https://github.com/agiletalk/Vivarium/releases/download/v#{version}/Vivarium.zip"
   name "Vivarium"
