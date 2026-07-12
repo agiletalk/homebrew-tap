@@ -1,9 +1,9 @@
 class Aquarium < Formula
   desc "Healing ASCII aquarium in your terminal"
   homepage "https://github.com/agiletalk/Aquarium"
-  url "https://github.com/agiletalk/Aquarium/releases/download/v2.8.0/aquarium.tar.gz"
-  sha256 "39e27b4f1b087de04583dd80b1d79d82c6e4dfce9460b678c207318dd3cc41cc"
-  version "2.8.0"
+  url "https://github.com/agiletalk/Aquarium/releases/download/v2.9.0/aquarium.tar.gz"
+  sha256 "9fffff51da86eed85fc9203689e125e938d5bdbcad6655120e687aec9f005c79"
+  version "2.9.0"
 
   depends_on :macos
 
