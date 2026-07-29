@@ -1,9 +1,9 @@
 class Relnote < Formula
   desc "Release notes, curated for humans — via your Claude Code subscription"
   homepage "https://github.com/agiletalk/relnote"
-  url "https://github.com/agiletalk/relnote/releases/download/v0.1.0/relnote.tar.gz"
-  sha256 "392696d48cae7ed38067261ae2c6110d7edcadb1e386326268b6485d5b3c223f"
-  version "0.1.0"
+  url "https://github.com/agiletalk/relnote/releases/download/v0.2.0/relnote.tar.gz"
+  sha256 "bf44e8b8a5b1d5adb1e2201126510e76df122ad21138b1197370e523e4df4f1c"
+  version "0.2.0"
 
   depends_on :macos
 
