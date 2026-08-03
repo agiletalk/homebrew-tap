@@ -3,6 +3,7 @@ class Aquarium < Formula
   homepage "https://github.com/agiletalk/Aquarium"
   url "https://github.com/agiletalk/Aquarium/releases/download/v3.1.0/aquarium.tar.gz"
   sha256 "760d63606dcec2b56748c68f0c5d8fcb8fbd8fe4743da8a9c84d38e9af3d3e25"
+  license "MIT"
 
   depends_on :macos
 
