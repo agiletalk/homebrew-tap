@@ -1,9 +1,9 @@
 class CommitMuseum < Formula
   desc "Your git history, exhibited — a terminal museum for git log"
   homepage "https://github.com/agiletalk/commit-museum"
-  url "https://github.com/agiletalk/commit-museum/releases/download/v0.1.0/commit-museum.tar.gz"
-  sha256 "b05e2506b1987eb1be4323e5e581be9ca396ef073e2e6807023cea03df7f0dd7"
-  version "0.1.0"
+  url "https://github.com/agiletalk/commit-museum/releases/download/v0.3.0/commit-museum.tar.gz"
+  sha256 "3786c7e1900b5b9704c9848fdd0786b60e556af99dac69eb86d21b5649557211"
+  version "0.3.0"
 
   depends_on :macos
 
@@ -12,6 +12,6 @@ class CommitMuseum < Formula
   end
 
   test do
-    assert_match "0.1.0", shell_output("#{bin}/commit-museum --version")
+    assert_match "0.3.0", shell_output("#{bin}/commit-museum --version")
   end
 end
