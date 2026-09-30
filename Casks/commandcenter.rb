@@ -1,6 +1,6 @@
 cask "commandcenter" do
-  version "0.2.0"
-  sha256 "4d13b6b928f5617a47baa884501c657076a244084188f2497cedd5ce9208b764"
+  version "0.3.0"
+  sha256 "27e933be12a8d5abb2c5904236805236f5d656345f4ac477fca582b4e6bc3101"
 
   url "https://github.com/agiletalk/homebrew-tap/releases/download/commandcenter-v#{version}/CommandCenter-#{version}.dmg"
   name "CommandCenter"
