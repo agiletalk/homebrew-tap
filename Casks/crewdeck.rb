@@ -1,6 +1,6 @@
 cask "crewdeck" do
-  version "0.8.0"
-  sha256 "814f058ada4912f2cc6f995bd23ca869e5b6f0d3820173ce361021217cd30d1e"
+  version "0.8.1"
+  sha256 "4d7835e8507936e5997eb4db89104e3305c0c5eb24a35bc303dd996726025665"
 
   url "https://github.com/agiletalk/homebrew-tap/releases/download/crewdeck-v#{version}/Crewdeck-#{version}.dmg"
   name "Crewdeck"
